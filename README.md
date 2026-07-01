@@ -83,3 +83,5 @@ verify all the logic that decides *what* yt-dlp will be told to do.)
 - Resume interrupted downloads
 - A simple progress bar UI instead of plain percentage text
 - Batch mode: read a list of URLs from a file
+
+THX-JUN2626-298
